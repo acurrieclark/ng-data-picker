@@ -4,7 +4,6 @@ import {
 } from '@angular/core'
 
 import { PickerDataModel } from './data-picker.models'
-export { PickerDataModel }
 
 @Component({
   selector: 'ng-data-picker',
